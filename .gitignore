@@ -1,0 +1,3 @@
+# QNX licence configurations (contain licence keys)
+qnx-config*/
+**/license/licenses
